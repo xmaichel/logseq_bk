@@ -1,0 +1,12 @@
+- Causas o razones
+	- Impresion de monedas por parte de la reserva para lidiar con la crisis.
+	- El déficit de USA por el aumento del techo de la deuda y lo están tapando con impresión de billetes
+	- Breton Wods, antes de 1975 cada dólar esta respaldado por oro.
+	- Los principales
+- Impactos sobre las economias
+	- los paises con economías correlacionadas con el dólar van a sufrir.
+-
+- Ray Dalio
+- Drukenmiller (alumno de George Soros)
+- Howard Marks
+- Jaime Dimon (JP Morgan)
