@@ -1,0 +1,3 @@
+- ![image.png](../assets/image_1644595841656_0.png)
+- Pendiente realizar valorizacion.
+- Tan pronto como se pueda salir de las posiciones.
