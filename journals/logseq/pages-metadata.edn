@@ -1,60 +1,66 @@
 [{:block/name "a",
-  :block/created-at 1644615959202,
-  :block/updated-at 1644615959202}
+  :block/created-at 1644805449216,
+  :block/updated-at 1644805449216}
+ {:block/name "aapl - apple",
+  :block/created-at 1644805449218,
+  :block/updated-at 1644805449218}
  {:block/name "b",
-  :block/created-at 1644615959203,
-  :block/updated-at 1644615959203}
+  :block/created-at 1644805449218,
+  :block/updated-at 1644805449218}
  {:block/name "bby - best buy co",
   :block/created-at 1644596204544,
   :block/updated-at 1644596327079}
  {:block/name "c",
-  :block/created-at 1644615959203,
-  :block/updated-at 1644615959203}
+  :block/created-at 1644805449218,
+  :block/updated-at 1644805449218}
  {:block/name "card",
-  :block/created-at 1644615959203,
-  :block/updated-at 1644615959203}
+  :block/created-at 1644805449218,
+  :block/updated-at 1644805449218}
  {:block/name "contents",
-  :block/created-at 1644615959204,
-  :block/updated-at 1644615959204}
+  :block/created-at 1644805449222,
+  :block/updated-at 1644805449222}
  {:block/name "cumpleaños",
-  :block/created-at 1644615959204,
-  :block/updated-at 1644615959204}
+  :block/created-at 1644805449222,
+  :block/updated-at 1644805449222}
  {:block/name "david",
-  :block/created-at 1644615959204,
-  :block/updated-at 1644615959204}
+  :block/created-at 1644805449222,
+  :block/updated-at 1644805449222}
  {:block/name "doing",
-  :block/created-at 1644615959203,
-  :block/updated-at 1644615959203}
+  :block/created-at 1644805449218,
+  :block/updated-at 1644805449218}
  {:block/name "done",
-  :block/created-at 1644615959203,
-  :block/updated-at 1644615959203}
+  :block/created-at 1644805449218,
+  :block/updated-at 1644805449218}
  {:block/name "el club de las 5",
-  :block/created-at 1644615959203,
-  :block/updated-at 1644615959203}
+  :block/created-at 1644805449218,
+  :block/updated-at 1644805449218}
  {:block/name "el fin del dólar",
-  :block/created-at 1644615959202,
-  :block/updated-at 1644615959202}
+  :block/created-at 1645757960688,
+  :block/updated-at 1645757960688}
  {:block/name "f - ford",
-  :block/created-at 1644615959202,
-  :block/updated-at 1644615959202}
+  :block/created-at 1644805449216,
+  :block/updated-at 1644805449216}
  {:block/name "favorites",
-  :block/created-at 1644615959202,
-  :block/updated-at 1644615959202}
- {:block/name "fb",
-  :block/created-at 1644615959204,
-  :block/updated-at 1644615959204}
+  :block/created-at 1644805449216,
+  :block/updated-at 1644805449216}
  {:block/name "fb - meta",
   :block/created-at 1644590102176,
   :block/updated-at 1644590308912}
  {:block/name "fb - meta ",
-  :block/created-at 1644615959202,
-  :block/updated-at 1644615959202}
+  :block/created-at 1644805449217,
+  :block/updated-at 1644805449217}
  {:block/name "feb 10th, 2022",
   :block/created-at 1644543450133,
   :block/updated-at 1644543471627}
  {:block/name "feb 11th, 2022",
   :block/created-at 1644585322744,
-  :block/updated-at 1644615942914}
+  :block/updated-at 1644625794184}
+ {:block/name "feb 13th, 2022",
+  :block/created-at 1644710400000,
+  :block/updated-at 1644710400000}
+ {:block/name "feb 14th, 2022",
+  :block/created-at 1644796800000,
+  :block/updated-at 1644796800000}
  {:block/name "feb 2nd, 2022",
   :block/created-at 1643760000000,
   :block/updated-at 1643760000000}
@@ -68,14 +74,14 @@
   :block/created-at 1644364800000,
   :block/updated-at 1644364800000}
  {:block/name "goog - google",
-  :block/created-at 1644615959204,
-  :block/updated-at 1644615959204}
+  :block/created-at 1644805449222,
+  :block/updated-at 1644805449222}
  {:block/name "gps - gap inc",
   :block/created-at 1644595842244,
   :block/updated-at 1644595932451}
  {:block/name "in-progress",
-  :block/created-at 1644615959204,
-  :block/updated-at 1644615959204}
+  :block/created-at 1644805449222,
+  :block/updated-at 1644805449222}
  {:block/name "jan 11th, 2022",
   :block/created-at 1641859200000,
   :block/updated-at 1641859200000}
@@ -113,47 +119,50 @@
   :block/created-at 1643587200000,
   :block/updated-at 1643587200000}
  {:block/name "lac",
-  :block/created-at 1644615959203,
-  :block/updated-at 1644615959203}
+  :block/created-at 1644805449220,
+  :block/updated-at 1644805449220}
  {:block/name "later",
-  :block/created-at 1644615959203,
-  :block/updated-at 1644615959203}
+  :block/created-at 1644805449218,
+  :block/updated-at 1644805449218}
  {:block/name "mañanas milagrosas",
-  :block/created-at 1644615959204,
-  :block/updated-at 1644615959204}
+  :block/created-at 1644805449223,
+  :block/updated-at 1644805449223}
  {:block/name "mi mama",
-  :block/created-at 1644615959202,
-  :block/updated-at 1644615959202}
+  :block/created-at 1644805449216,
+  :block/updated-at 1644805449216}
  {:block/name "now",
-  :block/created-at 1644615959204,
-  :block/updated-at 1644615959204}
+  :block/created-at 1644805449223,
+  :block/updated-at 1644805449223}
  {:block/name "objetivos",
-  :block/created-at 1644615959204,
-  :block/updated-at 1644615959204}
+  :block/created-at 1644805449222,
+  :block/updated-at 1644805449222}
  {:block/name "opcion sigma",
-  :block/created-at 1644615959202,
-  :block/updated-at 1644615959202}
+  :block/created-at 1644805449216,
+  :block/updated-at 1644805449216}
  {:block/name "opciones sobre acciones",
   :block/created-at 1643338151026,
-  :block/updated-at 1644596857697}
+  :block/updated-at 1644622016025}
  {:block/name "open opendoor technologies",
   :block/created-at 1644591031011,
   :block/updated-at 1644591360900}
  {:block/name "pypl - paypal",
   :block/created-at 1644543387987,
   :block/updated-at 1644543395367}
+ {:block/name "rsx - ",
+  :block/created-at 1644805449222,
+  :block/updated-at 1644805449222}
  {:block/name "sq - square",
-  :block/created-at 1644615959203,
-  :block/updated-at 1644615959203}
+  :block/created-at 1644805449218,
+  :block/updated-at 1644805449218}
  {:block/name "todo",
-  :block/created-at 1644615959203,
-  :block/updated-at 1644615959203}
+  :block/created-at 1644805449218,
+  :block/updated-at 1644805449218}
  {:block/name "wait",
-  :block/created-at 1644615959204,
-  :block/updated-at 1644615959204}
+  :block/created-at 1644805449222,
+  :block/updated-at 1644805449222}
  {:block/name "waiting",
-  :block/created-at 1644615959202,
-  :block/updated-at 1644615959202}
+  :block/created-at 1644805449216,
+  :block/updated-at 1644805449216}
  {:block/name "xlf - financial select sector spdr fund",
-  :block/created-at 1644615959202, 
-  :block/updated-at 1644615959202}]
+  :block/created-at 1644805449216, 
+  :block/updated-at 1644805449216}]
