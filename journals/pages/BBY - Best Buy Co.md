@@ -1,2 +1,0 @@
-- ![image.png](../assets/image_1644596227392_0.png)
-- Pendiente valorar la empresa, por ahora tan proto se pueda salir, se saldra de la empresa.

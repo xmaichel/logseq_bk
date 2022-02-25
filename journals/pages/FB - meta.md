@@ -1,3 +1,0 @@
-- Mantener las acciones para toda la vida o 5 años minimo
-- Se compraron 2 acciones por 227
-- Comprar 1 si baja a 215 (-12)
