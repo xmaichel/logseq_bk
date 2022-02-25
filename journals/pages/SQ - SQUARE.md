@@ -1,3 +1,2 @@
-- Esta compañía depende de las criptomonedas.
-- Admiro el founder
-- Cambio de nombre en el 2021
+- ![image.png](../assets/image_1645132709325_0.png)
+-
