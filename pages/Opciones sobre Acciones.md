@@ -11,13 +11,12 @@
 - ## Psicologia y Motivación en la inversion
   collapsed:: true
 	- Codicioso cuando los demás tienen miedo.
-- ### Relacion con la dopamina
-  collapsed:: true
-	- inversión corto plazo , se requiere demasiada Dopamina
-	- Inversión largo plazo, se requiere menos Dopamina,
-		- ![image.png](../assets/image_1643545902437_0.png)
-- Como mejorar los niveles de dopamina, con meditación, actividad física, lectura, ayuno intermitente, metodo win hof.
-- La disciplina y la constancia
+	- ### Relacion con la dopamina
+		- inversión corto plazo , se requiere demasiada Dopamina
+		- Inversión largo plazo, se requiere menos Dopamina,
+			- ![image.png](../assets/image_1643545902437_0.png)
+		- Como mejorar los niveles de dopamina, con meditación, actividad física, lectura, ayuno intermitente, metodo win hof.
+		- La disciplina y la constancia
 -
 - ## Películas
   collapsed:: true
