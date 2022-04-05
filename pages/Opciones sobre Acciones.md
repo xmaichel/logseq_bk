@@ -16,6 +16,7 @@
 - La disciplina y la constancia
 -
 - ## Películas
+  collapsed:: true
 	- ►Series 
 	  1. Billions
 	  2. Venta Corta y Farmacéuticas-Dirty Money (2018)
