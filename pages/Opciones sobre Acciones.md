@@ -46,4 +46,5 @@
 	  21. Enron, los tipos que estafaron a América (2005)
 	  22. Inside Job (2010)
 - ## Canales de Youtube sobre acciones
+	- [Jose Luis Cava](https://youtube.com/playlist?list=PL-j1qqL5tzpcUN5_IRhugLxmnTTpEiwUz)
 	-
