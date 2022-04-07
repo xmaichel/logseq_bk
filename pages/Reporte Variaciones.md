@@ -1,4 +1,4 @@
-- variaciones
+- # variaciones
   Por ciclo
   Operacion
 	- Fija
