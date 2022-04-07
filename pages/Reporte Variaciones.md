@@ -11,24 +11,24 @@
 	- Producto
 		- Movil
 		- LB Fijo
-	- BA
-	- TV
-	- Causas
-	- Altas
-	- Bajas
-	- TFS
-	- Reconexio
-	- Intereses
-	- Venta a cuotas
-	- Clausula
-	- Cambios de plan
-		- Dow
-		- Up
-	- Renta
-		- Secundarias
-		- Primarias
-	- Cargos Ocacionales
-	- Ajustes
+		- BA
+		- TV
+	- Casos variaciones
+		- Altas
+		- Bajas
+		- TFS
+		- Reconexio
+		- Intereses
+		- Venta a cuotas
+		- Clausula
+		- Cambios de plan
+			- Dow
+			- Up
+		- Renta
+			- Secundarias
+			- Primarias
+		- Cargos Ocacionales
+		- Ajustes
 	- Dueño Trafico
 		- Terceros
 		- Propios
