@@ -5,10 +5,8 @@
 	- Valorar la empresa antes de comprar, si no por lo menos Mirar [Tiranks](https://www.tipranks.com)
 -
 - ## Bitacora
-  collapsed:: true
 	- Vi este video de invertir desde cero [video](https://youtu.be/NWgZHNpI25Y)
 - ## Psicologia y Motivación en la inversion
-  collapsed:: true
 	- Codicioso cuando los demás tienen miedo.
 	- ### Relacion con la dopamina
 		- inversión corto plazo , se requiere demasiada Dopamina
@@ -18,7 +16,6 @@
 		- La disciplina y la constancia
 -
 - ## Películas
-  collapsed:: true
 	- ►Series 
 	  1. Billions
 	  2. Venta Corta y Farmacéuticas-Dirty Money (2018)
