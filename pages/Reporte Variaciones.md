@@ -1,17 +1,16 @@
 - # variaciones
-  Por ciclo
-  Operacion
-	- Fija
-	- Movil
-	  
-	  Segmento
-	- B2B
-	- B2C
-	  Subsegmetno
-	- 1...3   
-	  Producto
-	- Movil
-	- LB Fijo
+	- Por ciclo
+	- Operacion
+		- Fija
+		- Movil
+	- Segmento
+		- B2B
+		- B2C
+	- Subsegmetno
+		- 1...3
+	- Producto
+		- Movil
+		- LB Fijo
 	- BA
 	- TV
 	- Causas
