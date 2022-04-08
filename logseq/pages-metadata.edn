@@ -3,7 +3,16 @@
   :block/updated-at 1642007401175}
  {:block/name "apr 5th, 2022",
   :block/created-at 1649196461449,
-  :block/updated-at 1649216896018}
+  :block/updated-at 1649259064475}
+ {:block/name "apr 6th, 2022",
+  :block/created-at 1649223460350,
+  :block/updated-at 1649305031145}
+ {:block/name "apr 7th, 2022",
+  :block/created-at 1649309511953,
+  :block/updated-at 1649309511953}
+ {:block/name "apr 8th, 2022",
+  :block/created-at 1649394004769,
+  :block/updated-at 1649394004769}
  {:block/name "b",
   :block/created-at 1642007401175,
   :block/updated-at 1642007401175}
@@ -22,6 +31,9 @@
  {:block/name "curso para invertir en bolsa",
   :block/created-at 1649196667316,
   :block/updated-at 1649196667316}
+ {:block/name "devops",
+  :block/created-at 1649258633346,
+  :block/updated-at 1649258633346}
  {:block/name "doing",
   :block/created-at 1642007401175,
   :block/updated-at 1642007401175}
@@ -60,22 +72,28 @@
   :block/updated-at 1649196667491}
  {:block/name "opcion sigma",
   :block/created-at 1645815861234,
-  :block/updated-at 1645815861234}
+  :block/updated-at 1649217271942}
  {:block/name "opciones sobre acciones",
   :block/created-at 1649196667577,
-  :block/updated-at 1649200976699}
+  :block/updated-at 1649365149169}
  {:block/name "open opendoor technologies",
   :block/created-at 1649196667473,
   :block/updated-at 1649196667473}
  {:block/name "paginas y recursos para acciones",
   :block/created-at 1649196667708,
-  :block/updated-at 1649196667708}
+  :block/updated-at 1649257949009}
+ {:block/name "plantilla",
+  :block/created-at 1649366708717,
+  :block/updated-at 1649366708717}
  {:block/name "pypl - paypal",
   :block/created-at 1649196667629,
   :block/updated-at 1649196667629}
  {:block/name "readme",
   :block/created-at 1645815861193,
   :block/updated-at 1645815861193}
+ {:block/name "reporte variaciones",
+  :block/created-at 1649366732769,
+  :block/updated-at 1649366965669}
  {:block/name "sq - square",
   :block/created-at 1645816179182,
   :block/updated-at 1645816179182}
