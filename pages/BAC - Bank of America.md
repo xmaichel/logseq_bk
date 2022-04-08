@@ -1,3 +1,5 @@
+- Debiilidades
+- Oportunidades
 - Fortalezas
 	- Es uno de los bancos mas importantes de USA
 - Riesgos
