@@ -1,4 +1,7 @@
-- Es uno de los bancos mas importantes de USA
-- r
+- Fortalezas
+	- Es uno de los bancos mas importantes de USA
+- Riesgos
+	- Esta bajista
+	- Tasas de interes subiendo
 - ![image.png](../assets/image_1649459918551_0.png)
 - ![image.png](../assets/image_1649459991018_0.png)
