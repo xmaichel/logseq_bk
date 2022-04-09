@@ -56,4 +56,5 @@
 	- [Jose Luis Cava](https://youtube.com/playlist?list=PL-j1qqL5tzpcUN5_IRhugLxmnTTpEiwUz)
 	- El arte de invertir
 	- [[opción sigma]]
-	-
+- ## Temas Interesantes
+	- [[El fin del dólar]]
