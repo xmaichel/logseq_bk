@@ -1,5 +1,6 @@
 - # Profesional
-	-
+	- [[DevOps]]
 - # Crecimiento Personal
-- # Inversion
+- # Inversión
+	- [[Opciones sobre Acciones]]
 - # Salud
