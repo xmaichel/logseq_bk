@@ -15,7 +15,7 @@
 			- ![image.png](../assets/image_1643545902437_0.png)
 		- Como mejorar los niveles de dopamina, con meditación, actividad física, lectura, ayuno intermitente, metodo win hof.
 		- La disciplina y la constancia
-- ## Cartera
+- # Cartera
 	- Actual
 		- [[BAC - Bank of America]]
 		- [[GPS - Gap Inc]]
@@ -25,10 +25,9 @@
 	- Anterior
 		- BBY
 		- IWM
-	-
--
-- ## Películas
-- Series
+- ## Películas y series
+- Series 
+  collapsed:: true
 	- Billions
 	- Venta Corta y Farmacéuticas-Dirty Money (2018)
 - Películas
