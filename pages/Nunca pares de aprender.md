@@ -3,4 +3,5 @@
 - # Crecimiento Personal
 - # Inversión
 	- [[Opciones sobre Acciones]]
+	- [[Curso para invertir en bolsa]]
 - # Salud
