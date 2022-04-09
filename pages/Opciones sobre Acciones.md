@@ -17,6 +17,9 @@
 - ## Cartera
 	- [[BAC - Bank of America]]
 	- [[GPS - Gap Inc]]
+	- [[OPEN Opendoor Technologies]]
+	- [[F - Ford]]
+	- [[SPY]]
 	-
 -
 - ## Películas
