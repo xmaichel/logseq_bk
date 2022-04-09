@@ -166,7 +166,7 @@
 
  :ref/linked-references-collapsed-threshold 50
  :favorites ["Opciones sobre Acciones"]
- :graph/settings {:journal? false, :builtin-pages? true}
+ :graph/settings {:journal? false, :builtin-pages? true, :orphan-pages? false}
  :feature/enable-encryption? true
 
  ;; any number between 0 and 1 (the greater it is the faster the changes of the next-interval of card reviews) (default 0.5)
