@@ -24,7 +24,9 @@
 		- [[SPY]]
 		- [[PYPL - Paypal]]
 		- [[FB - meta]]
-		- []
+		- [[XLF]]
+		- [[SQ - SQUARE]]
+		- [[MU]]
 	- Anterior
 		- BBY
 		- IWM
