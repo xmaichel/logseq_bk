@@ -3,7 +3,8 @@
 	- Invertir cuando el VIX esta mas alto de 50 y si esta en 90 hacerlo sin duda [Grafico VIX](https://es.tradingview.com/chart/y3tY2X4B/) .
 	- Estar pendiente del índice del miedo y la codicia [fear y gear](https://money.cnn.com/data/fear-and-greed/)
 	- Valorar la empresa antes de comprar, si no por lo menos Mirar [Tiranks](https://www.tipranks.com)
--
+- # Herramientas
+	- [[paginas y recursos para acciones]]
 - ## Bitacora
 	- Vi este video de invertir desde cero [video](https://youtu.be/NWgZHNpI25Y)
 - ## Psicologia y Motivación en la inversion
