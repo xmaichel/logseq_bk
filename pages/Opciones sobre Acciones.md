@@ -22,6 +22,9 @@
 		- [[OPEN Opendoor Technologies]]
 		- [[F - Ford]]
 		- [[SPY]]
+		- [[PYPL - Paypal]]
+		- [[FB - meta]]
+		- []
 	- Anterior
 		- BBY
 		- IWM
