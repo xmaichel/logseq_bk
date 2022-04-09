@@ -3,8 +3,8 @@
 ## Mis principios
 ![[Mis principios]]
 - ##  Aprendizaje
-  ## Mis Habitos.
-  ![[Habitos]]
+- ## Mis Habitos.
+  [[Habitos]]
 ## De que estoy agradecido?
 ## ¿Que me preocupa? ¿Ostaculos que ahora te bloquean?
 ## ¿De que estoy orgulloso?
