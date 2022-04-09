@@ -51,4 +51,5 @@
 - ## Canales de Youtube sobre acciones
 	- [Jose Luis Cava](https://youtube.com/playlist?list=PL-j1qqL5tzpcUN5_IRhugLxmnTTpEiwUz)
 	- El arte de invertir
+	- [[opción sigma]]
 	-
