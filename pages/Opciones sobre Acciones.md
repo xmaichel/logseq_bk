@@ -14,6 +14,7 @@
 			- ![image.png](../assets/image_1643545902437_0.png)
 		- Como mejorar los niveles de dopamina, con meditación, actividad física, lectura, ayuno intermitente, metodo win hof.
 		- La disciplina y la constancia
+- # #Cartera
 -
 - ## Películas
 	- ►Series 
