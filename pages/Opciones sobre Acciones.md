@@ -15,11 +15,13 @@
 		- Como mejorar los niveles de dopamina, con meditación, actividad física, lectura, ayuno intermitente, metodo win hof.
 		- La disciplina y la constancia
 - ## Cartera
-	- [[BAC - Bank of America]]
-	- [[GPS - Gap Inc]]
-	- [[OPEN Opendoor Technologies]]
-	- [[F - Ford]]
-	- [[SPY]]
+	- Actual
+		- [[BAC - Bank of America]]
+		- [[GPS - Gap Inc]]
+		- [[OPEN Opendoor Technologies]]
+		- [[F - Ford]]
+		- [[SPY]]
+	-
 	-
 -
 - ## Películas
