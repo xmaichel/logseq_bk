@@ -1,12 +1,13 @@
 - # Personal
-	- ## Objetivos
-	  collapsed:: true
+	- ## Relaciones
 		- ### Familia
 			- [[Luciana]]
 			- [[Camila]]
 		- ### Amigos
 		- ### Otros [[Conocidos y Otros]]
-	- ## Relacones
+		-
+	- ## Objetivos
+		- [[Objetivos]]
 - # Aprendizaje
   collapsed:: true
 	- [[Nunca pares de aprender]]
