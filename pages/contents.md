@@ -5,7 +5,6 @@
 			- [[Camila]]
 		- ### Amigos
 		- ### Otros [[Conocidos y Otros]]
-		-
 	- ## Objetivos
 		- [[Objetivos]]
 - # Aprendizaje
@@ -22,4 +21,5 @@
 		- [[NOW]]
 		- [[DOING]]
 		- [[TODO]]
+		- [[IN-PROGRESS]]
 	- [[plantilla]]
