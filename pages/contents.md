@@ -23,3 +23,4 @@
 		- [[TODO]]
 		- [[IN-PROGRESS]]
 	- [[plantilla]]
+	- [[README]] fichero de git
