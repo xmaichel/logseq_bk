@@ -10,6 +10,7 @@
 	  collapsed:: true
 		- [[Objetivos]]
 	- ## principios
+	- ## Habitos
 - # Aprendizaje
   collapsed:: true
 	- [[Nunca pares de aprender]]
