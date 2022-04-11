@@ -4,7 +4,6 @@
   !
 - ##  Aprendizaje
 - ## Mis Habitos.
-  [[Habitos]]
 ## De que estoy agradecido?
 ## ¿Que me preocupa? ¿Ostaculos que ahora te bloquean?
 ## ¿De que estoy orgulloso?
@@ -15,3 +14,4 @@
 ## Proximas cosas por hacer
 ## Mi dia perfecto
 - [ ] No discutir con mi familia
+-

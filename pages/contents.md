@@ -9,7 +9,7 @@
 	- ## Objetivos
 	  collapsed:: true
 		- [[Objetivos]]
-	- ## Pri
+	- ## principios
 - # Aprendizaje
   collapsed:: true
 	- [[Nunca pares de aprender]]
