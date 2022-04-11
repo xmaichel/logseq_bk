@@ -8,4 +8,6 @@
 - # Libros
 	- ## Inversion
 		- [[el club de las 5]]
-	-
+	- ## literatura, novela y otros
+		- Cien años de soledad
+		- El psicoanalista.
