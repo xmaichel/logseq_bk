@@ -12,7 +12,6 @@
 	- ## principios
 	- ## Habitos
 - # Aprendizaje
-  collapsed:: true
 	- [[Nunca pares de aprender]]
 - # Inversión
   collapsed:: true
