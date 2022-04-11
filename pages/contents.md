@@ -1,8 +1,9 @@
 - # Personal
 	- ## Relacones
 		- ### Familia
-	- ### Amigos
-	-
+		- [[Luciana]]
+		- ### Amigos
+		- ### Otros
 - # Aprendizaje
 	- [[Nunca pares de aprender]]
 - # Inversion
