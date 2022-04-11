@@ -1,5 +1,4 @@
 - # Personal
-  collapsed:: true
 	- ## Relacones
 		- ### Familia
 			- [[Luciana]]
