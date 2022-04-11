@@ -1,0 +1,14 @@
+- Actual
+	- [[BAC - Bank of America]]
+	- [[GPS - Gap Inc]]
+	- [[OPEN Opendoor Technologies]]
+	- [[F - Ford]]
+	- [[SPY]]
+	- [[PYPL - Paypal]]
+	- [[FB - meta]]
+	- [[XLF]]
+	- [[SQ - SQUARE]]
+	- [[MU]]
+- Anterior
+	- BBY [[BBY - Best Buy Co]]
+	- IWM
