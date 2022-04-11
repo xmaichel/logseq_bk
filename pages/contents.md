@@ -16,5 +16,7 @@
 - # Otros
 	- ## Por Hacer
 		- [[LATER]]
-		-
+		- [[NOW]]
+		- [[DOING]]
+		- [[TODO]]
 	- [[plantilla]]
