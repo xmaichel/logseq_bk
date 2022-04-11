@@ -4,6 +4,7 @@
 	- Invertir cuando el VIX esta mas alto de 50 y si esta en 90 hacerlo sin duda [Grafico VIX](https://es.tradingview.com/chart/y3tY2X4B/) .
 	- Estar pendiente del índice del miedo y la codicia [fear y gear](https://money.cnn.com/data/fear-and-greed/)
 	- Valorar la empresa antes de comprar, si no por lo menos Mirar [Tiranks](https://www.tipranks.com)
+- # Indi
 - # Herramientas
   collapsed:: true
 	- [[paginas y recursos para acciones]]
@@ -35,7 +36,7 @@
 	- Anterior
 		- BBY [[BBY - Best Buy Co]]
 		- IWM
-- # Películas y series
+- # Youtube, Películas y series
   collapsed:: true
 	- Series 
 	  collapsed:: true
@@ -62,11 +63,11 @@
 		  21. Money (돈) - Dinero (2019) “Película Coreana” Documental 
 		  22. Enron, los tipos que estafaron a América (2005)
 		  23. Inside Job (2010)
-- # Canales de Youtube sobre acciones
-  collapsed:: true
-	- [Jose Luis Cava](https://youtube.com/playlist?list=PL-j1qqL5tzpcUN5_IRhugLxmnTTpEiwUz)
-	- El arte de invertir
-	- [[opción sigma]]
-- ## Temas Interesantes
+	- ## Canales de Youtube sobre acciones
+	  collapsed:: true
+		- [Jose Luis Cava](https://youtube.com/playlist?list=PL-j1qqL5tzpcUN5_IRhugLxmnTTpEiwUz)
+		- El arte de invertir
+		- [[opción sigma]]
+- # Otros Temas Interesantes
   collapsed:: true
 	- [[El fin del dólar]]
