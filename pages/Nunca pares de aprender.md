@@ -7,7 +7,7 @@
 - # Salud
 - # Libros
 	- ## Inversion
-		- [[el club de las 5]]
+		- [[El club de las 5]]
 	- ## literatura, novela y otros
-		- Cien años de soledad
+		- Cien años de soledad.
 		- El psicoanalista.
