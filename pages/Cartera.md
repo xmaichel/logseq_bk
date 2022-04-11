@@ -9,6 +9,7 @@
 	- [[XLF]]
 	- [[SQ - SQUARE]]
 	- [[MU]]
+- En seguimiento
 - Anterior
 	- BBY [[BBY - Best Buy Co]]
 	- IWM
