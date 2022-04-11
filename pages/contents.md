@@ -7,5 +7,8 @@
 		- ### Otros
 - # Aprendizaje
 	- [[Nunca pares de aprender]]
-- # Inversion
+- # Inversión
+	- ## [[Opciones sobre Acciones]]
 - # Trabajo
+- # Otros
+	- [[plantilla]]
