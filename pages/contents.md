@@ -1,5 +1,9 @@
 - # Personal
-- # Aprendizaje
+	- ## Relacones
+		- ### Familia
+	- ### Amigos
 	-
+- # Aprendizaje
+	- [[Nunca pares de aprender]]
 - # Inversion
 - # Trabajo
