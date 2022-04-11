@@ -1,33 +1,42 @@
-[{:block/name "a",
-  :block/created-at 1642007401175,
-  :block/updated-at 1642007401175}
+[{:block/name "apr 10th, 2022",
+  :block/created-at 1649566856763,
+  :block/updated-at 1649694481292}
+ {:block/name "apr 11th, 2022",
+  :block/created-at 1649504734826,
+  :block/updated-at 1649690549713}
  {:block/name "apr 5th, 2022",
   :block/created-at 1649196461449,
-  :block/updated-at 1649259064475}
+  :block/updated-at 1649689331402}
  {:block/name "apr 6th, 2022",
   :block/created-at 1649223460350,
   :block/updated-at 1649305031145}
  {:block/name "apr 7th, 2022",
   :block/created-at 1649309511953,
-  :block/updated-at 1649309511953}
+  :block/updated-at 1649459910067}
  {:block/name "apr 8th, 2022",
   :block/created-at 1649394004769,
-  :block/updated-at 1649394004769}
- {:block/name "b",
-  :block/created-at 1642007401175,
-  :block/updated-at 1642007401175}
+  :block/updated-at 1649504635625}
+ {:block/name "apr 9th, 2022",
+  :block/created-at 1649480405496,
+  :block/updated-at 1649539970920}
+ {:block/name "bac - bank of america",
+  :block/created-at 1649459910056,
+  :block/updated-at 1649460871742}
  {:block/name "bby - best buy co",
   :block/created-at 1649196667292,
   :block/updated-at 1649196667292}
- {:block/name "c",
-  :block/created-at 1642007401175,
-  :block/updated-at 1642007401175}
- {:block/name "card",
-  :block/created-at 1642007401175,
-  :block/updated-at 1642007401175}
+ {:block/name "camila",
+  :block/created-at 1649504360449,
+  :block/updated-at 1649504360449}
+ {:block/name "cartera",
+  :block/created-at 1649694705896,
+  :block/updated-at 1649694731220}
+ {:block/name "conocidos y otros",
+  :block/created-at 1649196667442,
+  :block/updated-at 1649687843952}
  {:block/name "contents",
   :block/created-at 1649196534779,
-  :block/updated-at 1649196534779}
+  :block/updated-at 1649694648350}
  {:block/name "curso para invertir en bolsa",
   :block/created-at 1649196667316,
   :block/updated-at 1649196667316}
@@ -37,18 +46,15 @@
  {:block/name "doing",
   :block/created-at 1642007401175,
   :block/updated-at 1642007401175}
- {:block/name "done",
-  :block/created-at 1642007401175,
-  :block/updated-at 1642007401175}
  {:block/name "el club de las 5",
   :block/created-at 1649196667673,
   :block/updated-at 1649196667673}
  {:block/name "el fin del dólar",
   :block/created-at 1649196667349,
   :block/updated-at 1649196667349}
- {:block/name "favorites",
-  :block/created-at 1642007401175,
-  :block/updated-at 1642007401175}
+ {:block/name "f - ford",
+  :block/created-at 1649503968284,
+  :block/updated-at 1649503968284}
  {:block/name "fb - meta",
   :block/created-at 1649196667392,
   :block/updated-at 1649196667392}
@@ -58,15 +64,21 @@
  {:block/name "in-progress",
   :block/created-at 1642007401175,
   :block/updated-at 1642007401175}
- {:block/name "jan 27th",
-  :block/created-at 1649196667442,
-  :block/updated-at 1649196667442}
  {:block/name "later",
   :block/created-at 1642007401175,
   :block/updated-at 1642007401175}
+ {:block/name "luciana",
+  :block/created-at 1649504371805,
+  :block/updated-at 1649504371805}
+ {:block/name "mu",
+  :block/created-at 1649505877448,
+  :block/updated-at 1649505877448}
  {:block/name "now",
   :block/created-at 1642007401175,
   :block/updated-at 1642007401175}
+ {:block/name "nunca pares de aprender",
+  :block/created-at 1649505235590,
+  :block/updated-at 1649683885623}
  {:block/name "objetivos",
   :block/created-at 1649196667491,
   :block/updated-at 1649196667491}
@@ -75,7 +87,10 @@
   :block/updated-at 1649217271942}
  {:block/name "opciones sobre acciones",
   :block/created-at 1649196667577,
-  :block/updated-at 1649365149169}
+  :block/updated-at 1649694705900}
+ {:block/name "opción sigma",
+  :block/created-at 1649504044363,
+  :block/updated-at 1649504044363}
  {:block/name "open opendoor technologies",
   :block/created-at 1649196667473,
   :block/updated-at 1649196667473}
@@ -83,8 +98,8 @@
   :block/created-at 1649196667708,
   :block/updated-at 1649257949009}
  {:block/name "plantilla",
-  :block/created-at 1649366708717,
-  :block/updated-at 1649366708717}
+  :block/created-at 1649540025152,
+  :block/updated-at 1649694630757}
  {:block/name "pypl - paypal",
   :block/created-at 1649196667629,
   :block/updated-at 1649196667629}
@@ -94,15 +109,15 @@
  {:block/name "reporte variaciones",
   :block/created-at 1649366732769,
   :block/updated-at 1649366965669}
+ {:block/name "spy",
+  :block/created-at 1649503985032,
+  :block/updated-at 1649503985032}
  {:block/name "sq - square",
   :block/created-at 1645816179182,
   :block/updated-at 1645816179182}
  {:block/name "todo",
   :block/created-at 1642007401175,
   :block/updated-at 1642007401175}
- {:block/name "wait",
-  :block/created-at 1642007401175,
-  :block/updated-at 1642007401175}
- {:block/name "waiting",
-  :block/created-at 1642007401175, 
-  :block/updated-at 1642007401175}]
+ {:block/name "xlf",
+  :block/created-at 1649505850017, 
+  :block/updated-at 1649505850017}]
