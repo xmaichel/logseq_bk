@@ -3,7 +3,7 @@
 		- ### Familia
 			- [[Luciana]]
 			- [[Camila]]
-			- Exequiel Acevedo Ariza : Hermano de mi mama, cumple años
+			- Exequiel Acevedo Ariza : Hermano de mi mama, cumple años [[Apr 11th]]
 		- ### Amigos
 		- ### Otros [[Conocidos y Otros]]
 	- ## Objetivos
