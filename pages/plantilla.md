@@ -1,7 +1,7 @@
 ## Mi historia
 - ##  Plan del dia (Objetivos)
-## Mis principios
-![[Mis principios]]
+- ## Mis principios
+  !
 - ##  Aprendizaje
 - ## Mis Habitos.
   [[Habitos]]
