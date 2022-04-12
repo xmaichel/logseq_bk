@@ -3,7 +3,7 @@
 	- Invertir cuando el VIX esta mas alto de 50 y si esta en 90 hacerlo sin duda [Grafico VIX](https://es.tradingview.com/chart/y3tY2X4B/) .
 	- Estar pendiente del índice del miedo y la codicia [fear y gear](https://money.cnn.com/data/fear-and-greed/)
 	- Valorar la empresa antes de comprar, si no por lo menos Mirar [Tiranks](https://www.tipranks.com)
-	- Por que no comprar Oro, a pesar de que el oro es un activo por excelencia como refujio en tiempos de recesion, Tambien es claro que en si solo no genera rentabilidad ademas de la valorizacion por la especulacion. mientras las acciones, finca raiz generan renta
+	- Por que no comprar Oro, a pesar de que el oro es un activo por excelencia como refujio en tiempos de recesion, Tambien es claro que en si solo no genera rentabilidad ademas de la valorizacion por la especulacion. mientras las acciones, finca raiz generan renta en su ejercicio, dividenos
 - # Indicadores a seguir
 	- Resección
 - # Herramientas
