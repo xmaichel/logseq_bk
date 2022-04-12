@@ -14,13 +14,16 @@
 	- ## principios
 	- ## Habitos
 - # Aprendizaje
+  collapsed:: true
 	- [[Nunca pares de aprender]]
 - # Inversión
   collapsed:: true
 	- ## [[Opciones sobre Acciones]]
 - # Trabajo
+  collapsed:: true
 	- [[Reporte Variaciones]]
 - # Otros
+  collapsed:: true
 	- ## Por Hacer
 		- [[LATER]]
 		- [[NOW]]
