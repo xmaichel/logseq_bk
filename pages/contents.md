@@ -1,5 +1,7 @@
 - # Personal
+  collapsed:: true
 	- ## Relaciones
+	  collapsed:: true
 		- ### Familia
 			- [[Luciana]]
 			- [[Camila]]
