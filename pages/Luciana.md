@@ -1,3 +1,4 @@
 - Mi tercera hija, apasionada, intensa, insistente, muy inteligente, le gusta las manualidades
 - Nacio un 13 de marzo en el año 2015 en Bogota en la clinica Reina Sofia.
+- Le encantan los vegetales, pero  la comida que no le gusta le cuesta trabajo aceptar que tiene que comercela.
 -
