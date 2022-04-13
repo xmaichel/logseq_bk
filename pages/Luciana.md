@@ -1,1 +1,1 @@
-- Mi tercera hija, apasionada
+- Mi tercera hija, apasionada, intensa, insistente, muy inteligente, le gusta las manualidades
